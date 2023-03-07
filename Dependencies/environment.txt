@@ -6,3 +6,4 @@ https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/google
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/libgoogle-perftools-dev_2.5-2.2ubuntu3_amd64.deb
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/libgoogle-perftools4_2.5-2.2ubuntu3_amd64.deb
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/libtcmalloc-minimal4_2.5-2.2ubuntu3_amd64.deb
+https://github.com/Scholar01/mov2mov-colab/blob/master/Dependencies/ffmpeg_5.1.2-3ubuntu1_amd64.deb
